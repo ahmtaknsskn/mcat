@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[credential]
+	helper = store
+[remote "origin"]
+	url = https://github.com/Melil0/xir-bot-project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = none
+	name = Glitch (flat-caraway)
